@@ -1,4 +1,4 @@
-# Olá, eu sou o Felipe Almeida! 👋
+# Olá, eu sou o Felipe Ferreira! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Anhanguera, dando meus primeiros passos na programação e documentando tudo aqui.
 
